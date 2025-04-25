@@ -14,7 +14,6 @@ This web application combines clean UI/UX with real-time location-based features
   - Axios
   - Dayjs
   - React Toastify
-  - Tailwind Css
 
 
 ## API's
